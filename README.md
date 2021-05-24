@@ -1,5 +1,5 @@
 
-Linkedin: Hudson Pavia
+Linkedin: Hudson Pavia ||
 Instagram: hudson.pavia
 
 Hello there, my name is Hudson and I am a rising Junior at Lehigh University in Behtlehem, Pennsylvania.
