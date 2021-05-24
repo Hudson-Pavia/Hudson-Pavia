@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hudson-Pavia
+
 Linkedin: Hudson Pavia
 Instagram: hudson.pavia
 
