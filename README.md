@@ -11,3 +11,5 @@ Some topics I am passionate about include web development, database systems, and
 Here are some of the projects I have worked on in the recent past:
 
 Designing and implementing a database system { https://github.com/Hudson-Pavia/CSE241_Insurance-Company_Database-Systems
+
+Building a Node.js API for use in a MERN web stack { 
