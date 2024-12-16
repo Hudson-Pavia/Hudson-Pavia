@@ -7,3 +7,4 @@ Outside of the classroom, I strive to consistently learn new technologies and fr
 Some topics I am passionate about include web3 development, database systems, and cryptography.
 
                                             
+https://www.plundr.gg/
